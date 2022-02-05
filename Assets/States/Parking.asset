@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45f6178a003a1aa4bbf5d93df06d29c5, type: 3}
+  m_Name: Parking
+  m_EditorClassIdentifier: 
+  gameText: No car in sight. Seems like there isn't even another building around
+    either. Wait... one car is pulling up... the windows are tinted. I can't tell
+    who that could be. They're rolling down the window. Wait, that looks like a gun!
+  otherStates:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: de8a0092abd9a0d4a80f8c015d1fdb6d, type: 2}

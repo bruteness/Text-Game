@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45f6178a003a1aa4bbf5d93df06d29c5, type: 3}
+  m_Name: Right Hallway
+  m_EditorClassIdentifier: 
+  gameText: This hallway is even longer than the last one. I wonder if anyone will
+    be down this way.
+  otherStates:
+  - {fileID: 11400000, guid: 65a4a6a7bd4582a48b064b503c75f055, type: 2}
+  - {fileID: 11400000, guid: edd1e1380aeaf2f40aaaf3112a44f0b9, type: 2}
+  - {fileID: 11400000, guid: 4e71cb1642ddc154bb52312e6b3a13d4, type: 2}
+  - {fileID: 11400000, guid: 43d266bde9a34b84ea6c3df8e82e4f08, type: 2}

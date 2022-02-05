@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 45f6178a003a1aa4bbf5d93df06d29c5, type: 3}
-  m_Name: Start
+  m_Name: Cleaning Supplies
   m_EditorClassIdentifier: 
-  gameText: Blinding white light fading into an office room. It seems I'm in a lab.
+  gameText: Smells like someone poured bleach all over this room. I'm starting to
+    get a headache.
   otherStates:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 65a4a6a7bd4582a48b064b503c75f055, type: 2}

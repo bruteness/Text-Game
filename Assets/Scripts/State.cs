@@ -3,7 +3,7 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "State")]
 public class State : ScriptableObject
 {
-    [SerializeField] string gameText;
+    [SerializeField][TextArea()] string gameText;
     [SerializeField] State[] otherStates;
 
     // return the game text for that state

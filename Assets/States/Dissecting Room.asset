@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45f6178a003a1aa4bbf5d93df06d29c5, type: 3}
+  m_Name: Dissecting Room
+  m_EditorClassIdentifier: 
+  gameText: Oh my god. This place smells so bad. There is blood all over this table,
+    leading all around. This is insane. I have to get out of here.
+  otherStates:
+  - {fileID: 11400000, guid: 349bec0b11f67474aaaded5758cdaa57, type: 2}
+  - {fileID: 11400000, guid: 53a18d79519f96141b37ad19eb3290ec, type: 2}
+  - {fileID: 11400000, guid: a0c868dcaf1c1244c84a4419d32ce3f7, type: 2}
+  - {fileID: 11400000, guid: ee641eb4173910c4889bbfaa44d654bf, type: 2}
